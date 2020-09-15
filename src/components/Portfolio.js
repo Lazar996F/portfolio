@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
+
 export default class Porfolio extends Component {
+
+
+
   render() {
     let resumeData = this.props.resumeData;
     return (
@@ -14,7 +18,7 @@ export default class Porfolio extends Component {
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
                     <a href="#modal-01">
-                      <img src={`${item.imgurl}`} className="item-img"/>
+                      <img  src={`${item.imgurl}`} className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
