@@ -1,8 +1,8 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/Lazar996F",
     "name": "Lazar Furtula",
-    "role": "React.js developer",
-    "linkedinId":"/in/lazarfurtula",
+    "role": "Web developer",
+    "linkedinId":"www.linkedin.com/in/lazarfurtula",
     "skypeid": "https://join.skype.com/invite/l0O1D4eqHVqs",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
