@@ -49,24 +49,6 @@ let resumeData = {
       }
     ],
     "skillsDescription":"Web developing skills",
-    "skills":[
-      {
-        "skillname":"React"
-      },
-      {
-        "skillname":"Node"
-      },
-      {
-        "skillname":"HTML"
-      },
-    
-      {
-        "skillname":"JS"
-      },
-      {
-        "skillname":"CSS"
-      }
-    ],
     "portfolio":[
       {
         "name":"project1",
