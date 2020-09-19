@@ -1,10 +1,11 @@
 let resumeData = {
+
     "imagebaseurl":"https://github.com/Lazar996F",
     "name": "Lazar Furtula",
     "role": "Web developer",
     "linkedinId":"www.linkedin.com/in/lazarfurtula",
     "skypeid": "https://join.skype.com/invite/l0O1D4eqHVqs",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I like dabbling in various parts of web development and like to learn about new technologies.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -15,46 +16,36 @@ let resumeData = {
           "name":"github",
           "url":"https://github.com/Lazar996F",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am a beginner in the field of web programming and I am progressing very fast and adapting to new technologies. This is a job that makes me happy and content, i also strive to become a highly regarded web developer and software engineer. I am good with electronics and electronic devices, and in my free time I repair broken devices. Also, in my free time I study the field of modern power engineering and hang out with friends. During my schooling, I also volunteered in various socially useful organizations and I like to work with a productive team.",
     "address":"Pale, Bosnia and Herzegovina",
-    "website":"https://github.com/Lazar996F",
+    "phone": "(+387) 66 872 986",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Faculty of Electrical Engineering, East Sarajevo",
+        "specialization":"Power Engineering",
+        "Achievements":"advanced university student"
       },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Singularity",
+        "specialization":"Web and software developing",
+        "MonthOfLeaving":"June",
+        "YearOfLeaving":"2020",
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"RT-RK",
+        "specialization":"Embedded system programming",
+        "MonthOfLeaving":"August",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+      },
+      {
+        "CompanyName":"Power plant 'HET Trebinje'",
+        "specialization":"Control the transmission of the electric power",
+        "MonthOfLeaving":"September",
+        "YearOfLeaving":"2017",
       }
     ],
     "skillsDescription":"Your skills here",
@@ -64,6 +55,9 @@ let resumeData = {
       },
       {
         "skillname":"CSS"
+      },
+      {
+        "skillname":"Reactjs"
       },
       {
         "skillname":"Reactjs"
