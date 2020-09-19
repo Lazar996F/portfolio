@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 export default  class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -69,6 +70,7 @@ export default  class Resume extends Component {
             </div>
 
             <div className="nine columns main-col">
+
                <p>
                {resumeData.skillsDescription}
                </p>

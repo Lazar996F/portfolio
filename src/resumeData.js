@@ -48,19 +48,23 @@ let resumeData = {
         "YearOfLeaving":"2017",
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Web developing skills",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"React"
+      },
+      {
+        "skillname":"Node"
+      },
+      {
+        "skillname":"HTML"
+      },
+    
+      {
+        "skillname":"JS"
       },
       {
         "skillname":"CSS"
-      },
-      {
-        "skillname":"Reactjs"
-      },
-      {
-        "skillname":"Reactjs"
       }
     ],
     "portfolio":[
