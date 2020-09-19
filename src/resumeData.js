@@ -3,13 +3,13 @@ let resumeData = {
     "imagebaseurl":"https://github.com/Lazar996F",
     "name": "Lazar Furtula",
     "role": "Web developer",
-    "linkedinId":"www.linkedin.com/in/lazarfurtula",
+    "linkedinId":"https://linkedin.com/in/lazarfurtula",
     "skypeid": "https://join.skype.com/invite/l0O1D4eqHVqs",
     "roleDescription": " I like dabbling in various parts of web development and like to learn about new technologies.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"www.linkedin.com/in/lazarfurtula",
+          "url":"https://linkedin.com/in/lazarfurtula",
           "className":"fa fa-linkedin"
         },
         {
@@ -30,7 +30,7 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Singularity",
+        "CompanyName":"Singularity.IS",
         "specialization":"Web and software developing",
         "MonthOfLeaving":"June",
         "YearOfLeaving":"2020",
@@ -73,12 +73,24 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Internship program at Singularity.IS",
+        "name":"Vladimir Prorok & Nikola Radovic"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"AUTOCAD-Electrical Instalation Design",
+        "name":"dr Dejan Jokic & Dzemaludin Cero"
+      },
+      {
+        "description":"PR and content marketing",
+        "name":"Ema Bukovica"
+      },
+      {
+        "description":"ARDUINO and Smart Techologies",
+        "name":"Nikola Radisavljevic"
+      },
+      {
+        "description":"Automation Technology with BACKHOFF PLC",
+        "name":"dr Dejan Jokic & Sansa Sljivo"
       }
     ]
   }
