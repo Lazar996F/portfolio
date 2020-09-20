@@ -12,7 +12,8 @@ export default class About extends Component {
     return (
       <section id="about">
         <div className="row">
-          <div className="three columns" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
+          <div className="three columns"  data-aos="fade-right"
+     data-aos-anchor-placement="top-center" data-aos-duration="3000">
             <img  className="bord" src="images/lazo1.png" alt=""/>
           </div>
 
