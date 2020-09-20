@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {TextTypeWriter} from 'react-text-effects'
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;

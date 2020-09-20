@@ -1,14 +1,19 @@
 import React, { Component } from "react";
-import CVpdf from '../../src/LazarFurtula_CV.pdf'
+import CVpdf from '../../src/LazarFurtula_CV.pdf';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 export default class About extends Component {
   render() {
+
+    AOS.init();
+
     let resumeData = this.props.resumeData;
     return (
       <section id="about">
         <div className="row">
-          <div className="three columns">
-            <img className="profile-pic" src="images/profpic.jpg" alt="" />
+          <div className="three columns" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
+            <img  className="bord" src="images/lazo1.png" alt=""/>
           </div>
 
           <div className="nine columns main-col">
@@ -19,7 +24,7 @@ export default class About extends Component {
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
                 <p className="address">
-                  <span>{resumeData.name}</span>
+                  <span >{resumeData.name}</span>
                   <br />
                   <span>{resumeData.address}</span>
                   <br />
