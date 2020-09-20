@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "dfb902ee7083b74da073",
+    "revision": "a3876de135fbb80a8581",
     "url": "/portfolio/static/css/main.93a059d3.chunk.css"
   },
   {
-    "revision": "dfb902ee7083b74da073",
-    "url": "/portfolio/static/js/main.dfb902ee.chunk.js"
+    "revision": "a3876de135fbb80a8581",
+    "url": "/portfolio/static/js/main.a3876de1.chunk.js"
   },
   {
     "revision": "08879cd432a84a939ce2",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/LazarFurtula_CV.ffa73130.pdf"
   },
   {
-    "revision": "05892303f3e25df0c4f110d4483d9671",
+    "revision": "38476a0f085e0e5562be5deeffd2c6a4",
     "url": "/portfolio/index.html"
   }
 ];
