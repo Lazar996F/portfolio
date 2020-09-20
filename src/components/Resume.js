@@ -5,11 +5,11 @@ export default class Resume extends Component {
   render() {
     const skills = [
       { type: "VS Code", level:99},
-      { type: "React.js", level: 70 },
+      { type: "React.js", level: 95},
       { type: "Node.js", level: 60 },
       { type: "HTML", level: 95 },
-      { type: "Javascript", level: 75 },
-      { type: "CSS", level: 80 },
+      { type: "Javascript", level: 90 },
+      { type: "CSS", level: 95 },
       { type: "Bootstrap", level: 99 }
     ];
     let resumeData = this.props.resumeData;

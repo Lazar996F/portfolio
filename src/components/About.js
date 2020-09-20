@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import CVpdf from '../../src/LazarFurtula_CV.pdf'
+
 export default class About extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -6,7 +8,7 @@ export default class About extends Component {
       <section id="about">
         <div className="row">
           <div className="three columns">
-            <img className="profile-pic" src="images/profilepic.jpg" alt="" />
+            <img className="profile-pic" src="images/profpic.jpg" alt="" />
           </div>
 
           <div className="nine columns main-col">
@@ -24,7 +26,8 @@ export default class About extends Component {
                   <span>{resumeData.phone}</span>
                 </p>
                 <h2>Here is my CV</h2>
-                <a href="../../public/LazarFurtula_CV.pdf" download>
+                <small>Download</small>
+                <a href={CVpdf} download>
                   <svg
                     width="3em"
                     height="3em"
